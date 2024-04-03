@@ -7,7 +7,7 @@ Nombre d'employés:
 Principaux concurrents:     
 Autres informations pertinentes:    
 
-## Votre superviseur     
+## Votre maître de stage en entreprise    
 Nom de votre maître de stage:     
 Titre de votre maître de stage:    
 Description des tâches de votre maître de stage:    
