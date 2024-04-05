@@ -2,7 +2,7 @@
 ## L'entreprise    
 Nom de l'entreprise:    
 Principaux produits ou services de l'entreprise:    
-Mission/ Mandat de l'entreprise:    
+Mission ou mandat de l'entreprise:    
 Nombre d'employés:         
 Principaux concurrents:     
 Autres informations pertinentes:    
@@ -14,7 +14,7 @@ Description des tâches de votre maîtresse ou maître de stage:
 Courriel de votre maîtresse ou maître de stage:     
 
 ## L'environnement de travail     
-Lieux (Télétravail ou présence?):   
+Lieux (télétravail ou présence?):   
 Logiciels fournis par la compagnie pour le stage:
 Logiciels fournis par le stagiaire:
 Équipement fourni (caméra, ordinateur,...) par la compagnie pour le stage:    
