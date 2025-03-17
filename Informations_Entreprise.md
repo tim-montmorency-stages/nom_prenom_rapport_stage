@@ -21,6 +21,6 @@ Logiciels fournis par le stagiaire:
 Autres outils mis à votre disposition pour le stage:      
 
 ## Horaire de travail
-Dates de début et de fin de stage: 1 avril au 17 mai    
+Dates de début et de fin de stage: 31 mars au 16 mai
 Journées de travail dans la semaine:     
 Heures d'arrivée et de départ:    
