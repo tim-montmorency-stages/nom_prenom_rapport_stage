@@ -14,11 +14,11 @@ Description des tâches de votre maîtresse ou maître de stage:
 Courriel de votre maîtresse ou maître de stage:     
 
 ## L'environnement de travail     
-Lieux (télétravail ou présence?):   
-Logiciels fournis par la compagnie pour le stage:
-Logiciels fournis par le stagiaire:
-Équipement fourni (caméra, ordinateur,...) par la compagnie pour le stage:    
-Autres outils mis à votre disposition pour le stage:    
+Lieux (télétravail ou présence?):      
+Logiciels fournis par la compagnie pour le stage:     
+Logiciels fournis par le stagiaire:    
+Équipement fourni (caméra, ordinateur,...) par la compagnie pour le stage:       
+Autres outils mis à votre disposition pour le stage:      
 
 ## Horaire de travail
 Dates de début et de fin de stage: 1 avril au 17 mai    
