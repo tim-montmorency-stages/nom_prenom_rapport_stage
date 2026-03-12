@@ -1,7 +1,7 @@
 # Semaine 2 
 ## Échéancier
 ### Liste d'étapes
-#### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. 
+#### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects, Trello ou Jira avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. Déposez le lien vers ce tableau ici:  
 
 ## Problèmes potentiels
 #### Faites une liste des problèmes potentiels pour votre stage. Pour chaque problème énuméré envisagez une solution pour le limiter ou l'éviter. 
@@ -14,7 +14,7 @@ Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limit
 Description: Description du problème technique, créatif ou humain...     
 Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
 
-Continuez la liste...
+Continuez la liste avec un minimum de 4 problèmes en tout.
 
 ## Proposition créative (ici ou à la semaine 3)
 Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci. (Esquisses, croquis, moodboard, scénarimage, maquette, arborescence, wireframe...) 
