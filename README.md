@@ -35,7 +35,7 @@ Vous pouvez demander deux badges par semaine.
 | Gardien de la qualité | Communicateur clair | Moteur de projet | Chercheur de savoir | Professionnel accompli | 
 |------|------|------|------|------|
 | <img src="badges/QualiteNB.jpg" width="120"> | <img src="badges/CommunicationNB.jpg" width="120"> | <img src="badges/ProjetNB.jpg" width="120"> | <img src="badges/SavoirNB.jpg" width="120"> | <img src="badges/ProfessionnelNB.jpg" width="120"> |
-|Décrivez une situation où vous avez testé ou validé un résultat avant la livraison.| Décrivez une situation où vous avez expliqué votre travail ou vos idées à un collègue ou un superviseur.| Décrivez une situation où vous avez pris l’initiative de proposer ou d’améliorer quelque chose. | Décrivez une situation où vous avez appris un nouvel outil ou une nouvelle méthode pour réaliser une tâche.| Décrivez une situation où vous avez agi de manière professionnelle face à une difficulté ou une responsabilité. | 
+|Décrivez une situation où vous avez testé ou validé un résultat avant la livraison.| Décrivez une situation où vous avez expliqué clairement votre travail ou vos idées à un collègue ou un superviseur.| Décrivez une situation où vous avez pris l’initiative de proposer ou d’améliorer quelque chose. | Décrivez une situation où vous avez appris un nouvel outil ou une nouvelle méthode pour réaliser une tâche.| Décrivez une situation où vous avez agi de manière professionnelle face à une difficulté ou une responsabilité. | 
 
 
 
