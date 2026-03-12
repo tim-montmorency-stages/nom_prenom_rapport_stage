@@ -1,9 +1,9 @@
 # Consignes pour l'évaluation finale
-L'activité aura lieu le 23 mai de 13h à 16h.     
+L'activité aura lieu le 22 mai de 13h à 16h.     
 
 Pour vous préparer, vous devez aller dans le tableau suivant sur le site Miro: 
 
-[Tableau Miro](https://miro.com/app/board/uXjVL7M36Pc=/?share_link_id=799571675563) 
+[Tableau Miro](https://miro.com/app/board/uXjVGy5b0B8=/?share_link_id=955096827867) 
 
 Vous devez créer une copie de la page nommée carte mentale. 
 Modifiez ensuite la note centrale pour y ajouter votre nom, le nom de votre entreprise d'accueil et le domaine de votre stage. 
