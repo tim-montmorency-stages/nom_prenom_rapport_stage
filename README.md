@@ -22,19 +22,19 @@ Vous pouvez demander deux badges par semaine.
 
 | Navigateur autonome | Esprit créatif | Oeil de designer | Maître de l'adaptation | Rigueur professionnelle | 
 |------|------|------|------|------|
-| <img src="badges/NavigateurNB.jpg" width="120"> | <img src="badges/CreatifNB.jpg" width="120"> | <img src="badges/DesignNB.jpg" width="120"> | <img src="badges/AdaptationNB.jpg" width="120"> | <img src="badges/RigueurNB.jpg" width="120"> |
+| <img src="badges/NavigateurNB.jpg" width="140"> | <img src="badges/CreatifNB.jpg" width="140"> | <img src="badges/DesignNB.jpg" width="140"> | <img src="badges/AdaptationNB.jpg" width="140"> | <img src="badges/RigueurNB.jpg" width="140"> |
 |Décrivez une situation où vous avez complété une tâche sans supervision directe.| Décrivez une situation où vous avez proposé une idée ou une solution originale.  |  Décrivez une situation où vous avez amélioré l’aspect visuel d’une production.  | Décrivez une situation où vous avez ajusté votre travail à un changement de demande ou de contrainte. |Décrivez une situation où vous avez suivi une procédure ou une méthode pour réaliser une tâche efficacement.| 
 
 
 | Explorateur de solutions | Esprit d'équipe | Connaissance du studio | Maître de l'optimisation | Stratège de production | 
 |------|------|------|------|------|
-| <img src="badges/SolutionsNB.jpg" width="120"> | <img src="badges/EquipeNB.jpg" width="120"> | <img src="badges/ConnaissanceNB.jpg" width="120"> | <img src="badges/OptiNB.jpg" width="120"> | <img src="badges/OrganisationNB.jpg" width="120"> |
+| <img src="badges/SolutionsNB.jpg" width="140"> | <img src="badges/EquipeNB.jpg" width="140"> | <img src="badges/ConnaissanceNB.jpg" width="140"> | <img src="badges/OptiNB.jpg" width="140"> | <img src="badges/OrganisationNB.jpg" width="140"> |
 |Décrivez une situation où vous avez trouvé une solution à un problème rencontré.| Décrivez une situation où la collaboration avec un collègue a permis d’améliorer un résultat.| Décrivez une situation où vous avez ajusté votre travail en tenant compte de l’identité ou des clients de l'entreprise. | Décrivez une situation où vous avez optimisé un média ou un fichier pour améliorer la performance ou la qualité.| Décrivez une situation où vous avez planifié ou priorisé vos tâches pour respecter un délai.| 
 
 
 | Gardien de la qualité | Communicateur clair | Moteur de projet | Chercheur de savoir | Professionnel accompli | 
 |------|------|------|------|------|
-| <img src="badges/QualiteNB.jpg" width="120"> | <img src="badges/CommunicationNB.jpg" width="120"> | <img src="badges/ProjetNB.jpg" width="120"> | <img src="badges/SavoirNB.jpg" width="120"> | <img src="badges/ProfessionnelNB.jpg" width="120"> |
+| <img src="badges/QualiteNB.jpg" width="140"> | <img src="badges/CommunicationNB.jpg" width="140"> | <img src="badges/ProjetNB.jpg" width="140"> | <img src="badges/SavoirNB.jpg" width="140"> | <img src="badges/ProfessionnelNB.jpg" width="140"> |
 |Décrivez une situation où vous avez testé ou validé un résultat avant la livraison.| Décrivez une situation où vous avez expliqué clairement votre travail ou vos idées à un collègue ou un superviseur.| Décrivez une situation où vous avez pris l’initiative de proposer ou d’améliorer quelque chose. | Décrivez une situation où vous avez appris un nouvel outil ou une nouvelle méthode pour réaliser une tâche.| Décrivez une situation où vous avez agi de manière professionnelle face à une difficulté ou une responsabilité. | 
 
 
