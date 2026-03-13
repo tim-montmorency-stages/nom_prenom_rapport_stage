@@ -7,6 +7,8 @@ Voici la grille d'évaluation:
 
 ![Grille 2.1](images/Eval2Controle.jpg)
 
+![Grille 2.2](images/Eval2Nom.jpg)
+
 
 ## Problèmes réels
 #### Faites une liste des problèmes qui vous sont arrivés cette semaine. Pour chaque problème énuméré notez la solution que vous avez utilisée.
