@@ -1,5 +1,12 @@
 # Semaine 3
 
+## 🚨 Évaluation 1
+Au début de la semaine 4, vous serez évalué. Assurez-vous d'avoir terminé les sections 1 à 3 de votre journal ainsi que la section Informations_Entreprise.     
+
+Voici la grille d'évaluation:     
+
+
+
 ## Problèmes réels
 #### Faites une liste des problèmes qui vous sont arrivés depuis le début de votre stage. Pour chaque problème énuméré notez la solution que vous avez utilisée.
 Exemple:     
