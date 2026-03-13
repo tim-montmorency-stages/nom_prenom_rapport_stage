@@ -1,4 +1,15 @@
 # Semaine 7
+
+## 🚨 Évaluation 4
+À la fin de la semaine, vous serez évalué sur votre réalisation en stage. Assurez-vous d'avoir terminé les sections 1 à 7 de votre journal. 
+
+Voici la grille d'évaluation:     
+
+![Grille 4.1](images/Eval41.png)
+
+![Grille 4.1](images/Eval42.png)
+
+
 ## Le produit
 #### Si tu as réalisé un ou des projets pendant ton stage qui t'amenait à produire quelque chose, insère un lien permettant de voir la version finale du ou des produits. Tu peux aussi insérer des photos ou vidéos de ton travail!
 
