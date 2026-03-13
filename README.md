@@ -1,8 +1,10 @@
-# Badges
+# 🚨 Évaluation 3 - Attitudes professionnelles
 
-Pendant votre stage, vous pourrez obtenir des badges qui reconnaissent certaines attitudes professionnelles importantes dans le domaine du multimédia.
+## Évaluation par obtention de badges
 
-Chaque badge est obtenu lorsque vous décrivez une situation vécue pendant votre stage qui démontre cette attitude.
+Pendant votre stage, vous pourrez obtenir des badges qui reconnaissent certaines attitudes professionnelles importantes en multimédia.
+
+Chaque badge est obtenu lorsque vous décrivez une situation vécue pendant votre stage qui démontre une attitude précise.
 
 Le maître de stage validera le badge en se basant sur votre description de la situation.
 
@@ -15,7 +17,11 @@ Choisissez le badge correspondant à une attitude que vous avez démontrée.
 
 Décrivez à votre enseignant une situation vécue pendant votre stage et expliquez pourquoi vous méritez le badge.   
 
-Vous pouvez demander deux badges par semaine. 
+Vous pouvez demander deux badges par semaine.   
+
+Lorsque vous obtenez un badge, celui-ci s'affiche maintenant en couleur sur cette page. 
+
+
 
 
 ### Badges disponibles 
