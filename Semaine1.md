@@ -1,7 +1,7 @@
 # Semaine 1   
 
 ## 🚨 Évaluation 3
-L'évaluation 3 - Attitudes professionnelles se fait tout au long du stage. Assurez-vous de consulter les consignes dans le 
+L'évaluation 3 - Attitudes professionnelles se fait tout au long du stage. Assurez-vous de consulter les consignes dans le README dès maintenant. 
 
 
 ## Mandat
