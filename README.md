@@ -22,6 +22,12 @@ Vous pouvez demander deux badges par semaine.
 Lorsque vous obtenez un badge, celui-ci s'affiche maintenant en couleur sur cette page. 
 
 
+## Grille de correction
+
+Vous avez une possibilité de 15 badges en tout, mais il est possible que certains ne s'appliquent pas à votre stage, ainsi, seulement 10 sont nécessaires pour obtenir 100% à l'évaluation.  
+
+![Grille 3](images/Eval3Attitude.png)
+
 
 
 ### Badges disponibles 
