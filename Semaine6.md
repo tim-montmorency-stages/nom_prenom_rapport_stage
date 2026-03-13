@@ -1,5 +1,13 @@
 # Semaine 6
 
+## 🚨 Évaluation 2
+Au début de la semaine 7, vous serez évalué sur votre archivage et contrôle de la qualité. Assurez-vous d'avoir terminé les sections 1 à 6 de votre journal.     
+
+Voici la grille d'évaluation:     
+
+![Grille 2.1](images/Eval2Controle.jpg)
+
+
 ## Problèmes réels
 #### Faites une liste des problèmes qui vous sont arrivés cette semaine. Pour chaque problème énuméré notez la solution que vous avez utilisée.
 Exemple:     
