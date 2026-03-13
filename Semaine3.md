@@ -5,6 +5,12 @@ Au début de la semaine 4, vous serez évalué. Assurez-vous d'avoir terminé le
 
 Voici la grille d'évaluation:     
 
+![Grille 1.1](images/Eval1Interp.png)
+
+![Grille 1.2](images/Eval1Prop.png)
+
+![Grille 1.3](images/Eval1Planif.png)
+
 
 
 ## Problèmes réels
