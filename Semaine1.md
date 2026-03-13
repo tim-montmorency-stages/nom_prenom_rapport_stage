@@ -1,4 +1,9 @@
 # Semaine 1   
+
+## 🚨 Évaluation 3
+L'évaluation 3 - Attitudes professionnelles se fait tout au long du stage. Assurez-vous de consulter les consignes dans le 
+
+
 ## Mandat
 ### Description
 #### Décrivez le projet ou les tâches que vous aurez à exécuter pendant votre stage. Quels mandats vous sont donnés? Quels logiciels et équipements devrez-vous utiliser? Soyez exhaustif.    
