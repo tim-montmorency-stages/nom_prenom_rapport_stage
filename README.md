@@ -6,7 +6,7 @@ Pendant votre stage, vous pourrez obtenir des badges qui reconnaissent certaines
 
 Chaque badge est obtenu lorsque vous décrivez une situation vécue pendant votre stage qui démontre une attitude précise.
 
-Vous pouvez demander jusqu'à deux badges par semaine lors de votre rencontre hebdomadaire avec votre enseignant responsable. L'évaluation s'étend de la semaine 1 à 7 de votre stage. C'est à vous de décider à quel moment vous demandez vos badges, en respectant la limite de deux par semaine.    
+Vous pouvez demander jusqu'à trois badges par semaine lors de votre rencontre hebdomadaire avec votre enseignant responsable. L'évaluation s'étend de la semaine 1 à 7 de votre stage. C'est à vous de décider à quel moment vous demandez vos badges, en respectant la limite de trois par semaine.    
 
 Il est de votre responsabilité de demander vos badges, si vous ne les demandez pas, vous ne les aurez pas! 
 
