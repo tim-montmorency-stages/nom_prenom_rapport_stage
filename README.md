@@ -47,5 +47,6 @@ Vous avez une possibilité de 15 badges en tout, mais il est possible que certai
 | <img src="badges/QualiteNB.jpg" width="140"> | <img src="badges/CommunicationNB.jpg" width="140"> | <img src="badges/ProjetNB.jpg" width="140"> | <img src="badges/SavoirNB.jpg" width="140"> | <img src="badges/ProfessionnelNB.jpg" width="140"> |
 |Décrivez une situation où vous avez testé ou validé un résultat avant la livraison.| Décrivez une situation où vous avez expliqué clairement votre travail ou vos idées à un collègue ou un superviseur.| Décrivez une situation où vous avez pris l’initiative de proposer ou d’améliorer quelque chose. | Décrivez une situation où vous avez appris un nouvel outil ou une nouvelle méthode pour réaliser une tâche.| Décrivez une situation où vous avez agi de manière professionnelle face à une difficulté ou une responsabilité. | 
 
+*Crédit: ChatGPT pour les images et une partie des descriptions*
 
 
