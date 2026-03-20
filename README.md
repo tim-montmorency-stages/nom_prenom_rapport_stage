@@ -1,4 +1,4 @@
-# 🚨 Évaluation 3 - Attitudes professionnelles
+# 🚨 Évaluation 3 - Attitudes professionnelles - 10%
 
 ## Évaluation par obtention de badges
 
