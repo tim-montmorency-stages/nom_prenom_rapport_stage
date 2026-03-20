@@ -24,7 +24,7 @@ Lorsque vous obtenez un badge, celui-ci s'affiche maintenant en couleur sur cett
 
 ## Grille de correction
 
-Vous avez une possibilité de 15 badges en tout, mais il est possible que certains ne s'appliquent pas à votre stage, ainsi, seulement 10 sont nécessaires pour obtenir 100% à l'évaluation.  
+Vous avez une possibilité de 15 badges en tout, mais il est possible que certains ne s'appliquent pas à votre stage. Ainsi, seulement 10 sont nécessaires pour obtenir 100% à l'évaluation.  
 
 ![Grille 3](images/Eval3Attitude.png)
 
